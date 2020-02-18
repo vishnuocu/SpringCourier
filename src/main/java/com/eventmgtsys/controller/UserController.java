@@ -26,7 +26,7 @@ import com.eventmgtsys.service.CompanyService;
 import com.eventmgtsys.service.EventService;
 import com.eventmgtsys.service.UserRolesService;
 import com.eventmgtsys.service.UserService;
-
+//this is a comment
 @RestController
 public class UserController {
 	@Autowired
